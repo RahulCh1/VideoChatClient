@@ -12,6 +12,7 @@ namespace VideoChatClient
 {
     public partial class Form1 : Form
     {
+        //Comment
         public Form1()
         {
             InitializeComponent();
